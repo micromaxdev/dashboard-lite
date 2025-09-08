@@ -1,0 +1,53 @@
+call_id,dateCreated,serviceCallSubject,jobStatus,callType,dueDate,managedBy,State,customerCode,customerName,salesEmployeeName,quotedAmount,totalInvoicedAmount,amountToBeInvoiced
+4030,04/08/25,ID-4030 Haben Croydon Central - service call,Dispatched,Hardware,30/09/25,Michael Wyatt,VIC,SC3136-001,Croydon Central Shopping Centre,Kurt Schober,1080,0,1080
+3895,28/05/25,ID-3895 P6765-25 Vicinity - Altona Gate Shopping Centre - Carpark Occupancy for new Basement Carpark via local display and Acumen?,Open,Solution,30/09/25,Michael Wyatt,VIC,SC3025-001,Altona Gate Shopping Centre,Kurt Schober,27519,13759.5,13759.5
+4011,24/07/25,ID-4011 Vodafone Partner store VS0163 Northcote defit,Ready for A/P Inv,Solution,29/08/25,Michael Wyatt,NSW,HUTE8A,TPG Telecom Limited (formerly Vodafone Hutchinson Australia),Kurt Schober,878,878,0
+4003,21/07/25,ID-4003 P6913-25a Haben - Forest Hill Chase - Traffic Counter Replacement at E1 L2 West (Aus Post) via Acumen?,Ready for A/P Inv,Solution,29/08/25,Michael Wyatt,VIC,SC3131-001,Forest Hill Chase Shopping Centre,Kurt Schober,5315,5315,0
+3960,02/07/25,ID-3960 Vicinity Warwick Grove Shopping Centre - service call,Waiting PO,Hardware,29/08/25,Michael Wyatt,WA,SC6024-001,Warwick Grove Shopping Centre,Kurt Schober,900,0,900
+3647,21/01/25,TS-ID-3647 Forestry Corporation NSW - 2525 Maintenance and Data traffic survey,Open,Traffic Survey,19/12/25,Michael Wyatt,NSW,SFNS2,Forestry Corporation Of NSW,Kurt Schober,76008,19002,57006
+3938,18/06/25,ID-3938 Vodafone Partner L1157 Keysborough service call,Ready for A/P Inv,Hardware,29/08/25,Michael Wyatt,NSW,HUTE8A,TPG Telecom Limited (formerly Vodafone Hutchinson Australia),Kurt Schober,0,0,0
+3948,23/06/25,ID-3948 Vicinity Armidale - equipment for traffic counters after wifi upgrade,Waiting PO,Hardware,29/08/25,Michael Wyatt,NSW,SC2350-001,Armidale Central,Kurt Schober,177,0,177
+3659,28/01/25,TS-ID-3659 Pymble Ladies College - 2525 Data Collection and Maintenance,Open,Traffic Survey,31/10/25,Michael Wyatt,NSW,PLCO8,Pymble Ladies College,Kurt Schober,6704,4987,1717
+3885,23/05/25,ID-3885 Vicinity Box Hill - service call,Dispatched,Hardware,29/08/25,Michael Wyatt,VIC,SC3128-002,Box Hill Central (South Precinct),Kurt Schober,1080,0,1080
+3559,26/11/24,ID-3559_P6534-24 HMC Capital - HomeCo Victoria Point - Vehicle Counters via Acumen?,Ready for A/P Inv,Solution,28/02/25,Chris Stevens,QLD,SC4165-001,HomeCo. Victoria Point,Kurt Schober,23438,23438,0
+3935,17/06/25,ID-3935 Vodafone D205 Preston - service call,Ready for A/P Inv,Hardware,31/07/25,Michael Wyatt,NSW,HUTE8A,TPG Telecom Limited (formerly Vodafone Hutchinson Australia),Kurt Schober,0,0,0
+3879,21/05/25,RMA-ID-3879 Flexible Drive,Dispatched,RMA,31/07/25,Chris Stevens,VIC,FDAG6,Flexible Drive Pty Ltd,Karen Riddell,0,0,0
+4023,30/07/25,ID-4023 ISPT ENEX100 - service call,Dispatched,Hardware,30/09/25,Michael Wyatt,WA,SC6000-001,Enex Perth,Kurt Schober,1355,0,1355
+2834,20/12/23,ID-2834 P6071-23b Goldline - Chatswood Chase - TCS Foot Traffic Counters for Chatswood Chase via Acumen?,Dispatched,Solution,30/11/25,Chris Stevens,NSW,GOLIND,Goldline Industries Pty Ltd,Kurt Schober,148429,0,148429
+2937,12/02/24,ID-2937 Sacl Service Call,Ready for A/P Inv,Hardware,29/08/25,Chris Stevens,NSW,SACO8,Sydney Airport Corporation Limited,Kurt Schober,1020,0,1020
+3048,27/03/24,ID-3048 Vicinity The Galleries Service Call,Pending,Hardware,30/09/25,Chris Stevens,NSW,SC2000-002,The Galleries,Kurt Schober,700,0,700
+4018,30/07/25,ID-4018 Bankstown Central - NAB Service Call,Open,Hardware,15/08/25,Chris Stevens,NSW,SC2200-001,Bankstown Central,Kurt Schober,1080,0,1080
+3756,15/03/25,ID-3756_P6481-24 Sydney Airport Corporation Ltd - 4 New Foot Traffic Counters for T1 Pier B East Project,Ready for A/P Inv,Solution,29/08/25,Chris Stevens,NSW,SACO8,Sydney Airport Corporation Limited,Kurt Schober,20707,20707,0
+3918,06/06/25,ID-3918_P6801-25 Charter Hall - Bribie Island Central - New Foot Traffic Counter at Service Corridor via Acumen?,Pending,Solution,29/08/25,Chris Stevens,QLD,SC4507-001,Bribie Island Central,Kurt Schober,5642,0,5642
+3909,04/06/25,ID-3909 Optus Jun 25,Waiting PO,Contract,29/08/25,Chris Stevens,NSW,OPMO8,Optus Mobile Pty Ltd,Kurt Schober,10000,0,10000
+3924,12/06/25,ID-3924 - RBG Service Call,Ready for A/R Inv,Hardware,31/07/25,Chris Stevens,NSW,RBGA2,The Royal Botanic Gardens and Domain Trust,Kurt Schober,1080,0,1080
+3919,06/06/25,ID-3919_P6858-25 Cash Converters Mt Druitt - 1 x Sensor Foot Traffic Counter Upgrade via Acumen? – SUPPLY ONLY,Open,Solution,30/08/25,Chris Stevens,WA,CACOH,Cash Converters (Stores) Pty Ltd,Kurt Schober,1300,0,1300
+3906,02/06/25,ID-3906 Design & Production Supply Only,Open,Hardware,30/06/25,Chris Stevens,NSW,DETP2,Design To Production,Kurt Schober,200,0,200
+3929,13/06/25,ID-3929 SLM - Hyde Park Barracks - Service Call,Ready for A/P Inv,Hardware,29/08/25,Chris Stevens,NSW,SYLM8,Museums of History NSW,Kurt Schober,2147,1916,231
+4009,24/07/25,ID-4009 Vicinity Uptown - Service Call,Open,Hardware,31/07/25,Chris Stevens,QLD,SC4000-002,Uptown,Kurt Schober,1080,0,1080
+4019,30/07/25,ID-4019_P6923-25a Precision Group - Chevron Renaissaince  - 2 x New Foot Traffic Counters for Hotel Jardin Entry via Acumen?,Dispatched,Solution,29/08/25,Chris Stevens,QLD,CHRE8,Chevron Renaissance Asia Pacific Shopping Centre P/L,Kurt Schober,8917,0,8917
+3966,04/07/25,ID-3966_Vicinity DFO Brisbane - CS - Service Call,Ready for A/P Inv,Hardware,29/08/25,Chris Stevens,QLD,SC4008-001,DFO Brisbane,Kurt Schober,1080,0,1080
+4028,01/08/25,TS-ID-4028 P6915-25 InRoads Group - TMCs at Sutton Forest,Dispatched,Traffic Survey,30/09/25,Michael Wyatt,NSW,InRoads,InRoads Group,Kurt Schober,1330,1330,0
+3969,05/07/25,ID-3969_P6817-25 State Library NSW - Foot Traffic Counter Accuracy Audit,Open,Customer Site Audit,29/08/25,Chris Stevens,NSW,SLNS2,State Library of NSW,Kurt Schober,6052,0,6052
+4020,30/07/25,ID-4020 52 Martin Place Service Call,Open,Hardware,15/08/25,Chris Stevens,NSW,SC2000-007,52 Martin Place,Kurt Schober,720,0,720
+3970,05/07/25,ID-3970_P6876-25 State Library NSW - New Foot Traffic Counters at 2 Locations,Ready for A/P Inv,Solution,29/08/25,Chris Stevens,NSW,SLNS2,State Library of NSW,Kurt Schober,8779,8779,0
+1977,17/11/22,ID-1977 Vodafone Doncaster,Open,Hardware,28/08/25,Michael Wyatt,VIC,HUTE8A-3108-001,Vodafone Doncaster,Kurt Schober,26390,26390,0
+3985,11/07/25,ID-3985_BWR - Optus Hobart,Open,Solution,29/08/25,Chris Stevens,NSW,BWRTE2,BWR Technologies Pty Ltd,Kurt Schober,800,0,800
+3986,11/07/25,ID-3986_BWR - Optus Eastgardens,Open,Solution,29/08/25,Chris Stevens,NSW,BWRTE2,BWR Technologies Pty Ltd,Kurt Schober,800,0,800
+3963,03/07/25,TS-ID-3963 P6886-25 Water NSW - Counter Rental for FR15 Mount Kembla,Reattending,Traffic Survey,31/07/26,Michael Wyatt,NSW,SCAU8,Water NSW,Kurt Schober,3294,3294,0
+4001,18/07/25,ID-4001 P6903-25 Vodafone Bourke Street D400 - Install 4 x new 3D Sensors and 4 x AI Cameras at Bourke Street Store,Open,Solution,30/09/25,Michael Wyatt,NSW,HUTE8A,TPG Telecom Limited (formerly Vodafone Hutchinson Australia),Kurt Schober,26958,0,26958
+3826,16/04/25,ID-3826 Maroochydore Homemaker Service Call,Open,Hardware,08/08/25,Chris Stevens,QLD,BBRC8X,Calardu Maroochydore Homemaker Centre,Kurt Schober,1080,0,1080
+3968,05/07/25,ID-3968_Optus July 25,Open,Contract,15/08/25,Chris Stevens,NSW,OPMO8,Optus Mobile Pty Ltd,Kurt Schober,10000,0,10000
+4016,29/07/25,ID-4016 Goldline - Chatswood Chase service call,Dispatched,Hardware,29/08/25,Michael Wyatt,NSW,GOLIND,Goldline Industries Pty Ltd,Kurt Schober,0,0,0
+3998,16/07/25,ID-3998_Australia Fair -Supply Only,Open,Hardware,29/08/25,Chris Stevens,QLD,SC4215-001,Australia Fair Shopping Centre,Kurt Schober,380,0,380
+3972,07/07/25,ID-3972 - Lease Equity Pinjarra Junction SC - service call,Reattending,Hardware,29/08/25,Michael Wyatt,WA,SC6208-001,Pinjarra Junction Shopping Centre,Kurt Schober,1080,0,1080
+3875,16/05/25,ID-3875 Eastlands Centre service call,Waiting PO,Hardware,29/08/25,Michael Wyatt,TAS,SC7018-001,Eastlands Centre,Kurt Schober,1080,0,1080
+4015,29/07/25,ID-4015 P6926-25 Vodafone Bourke Street - Install 2 x Recovered 3D Gen2 Sensors at Bourke Street Temp Store,Open,Solution,29/08/25,Michael Wyatt,NSW,HUTE8A,TPG Telecom Limited (formerly Vodafone Hutchinson Australia),Kurt Schober,1966,0,1966
+4025,01/08/25,ID-4025 Morayfield - Service Call North Ramp,Open,Hardware,29/08/25,Chris Stevens,QLD,SC4506-001,Morayfield Shopping Centre,Kurt Schober,1080,0,1080
+3046,27/03/24,ID-3046 Vicinity The Strand Service Call,Ready for A/R Inv,Hardware,29/08/25,Chris Stevens,NSW,SC2000-003,The Strand Arcade,Kurt Schober,700,0,700
+3678,05/02/25,ID-3678 Entertainment Quarter Service Call,Open,Hardware,29/08/25,Chris Stevens,NSW,FSAU8,The Entertainment Quarter,Kurt Schober,1020,0,1020
+4014,29/07/25,ID-4014 P6924-25 Vodafone Partner Minto VI007 - Remove Foot Traffic Counters,Waiting PO,Solution,29/08/25,Michael Wyatt,NSW,HUTE8A,TPG Telecom Limited (formerly Vodafone Hutchinson Australia),Kurt Schober,878,0,878
+4032,06/08/25,ID-4032 Vicinity Cranbourne Park SC - service call,Dispatched,Hardware,30/09/25,Michael Wyatt,VIC,SC3977-001,Cranbourne Park Shopping Centre,Kurt Schober,720,0,720
+4033,06/08/25,ID-4033 Vodafone Partner L1172 Burleigh Heads - service call return visit,Dispatched,Hardware,29/08/25,Michael Wyatt,NSW,HUTE8A,TPG Telecom Limited (formerly Vodafone Hutchinson Australia),Kurt Schober,0,0,0
+4034,06/08/25,TS-ID-4034 P6898-25 TfNSW - Fitzroy Falls Tube Survey,Open,Traffic Survey,28/11/25,Michael Wyatt,NSW,TNSW2,Transport for NSW ABN:18 804 239 602,Kurt Schober,4502,0,4502
+4035,06/08/25,ID-4035 Vodafone partner store VS0094 Warriewood - service call,Open,Hardware,30/09/25,Michael Wyatt,NSW,HUTE8A,TPG Telecom Limited (formerly Vodafone Hutchinson Australia),Kurt Schober,0,0,0

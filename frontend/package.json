@@ -1,0 +1,87 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "proxy": "http://localhost:5000",
+  "private": true,
+  "dependencies": {
+    "@apollo/client": "^3.7.16",
+    "@emailjs/browser": "^3.6.2",
+    "@emotion/css": "^11.11.2",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@handsontable/react": "^13.1.0",
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/pickers": "^3.3.10",
+    "@mui/icons-material": "^5.6.1",
+    "@mui/material": "^6.3.1",
+    "@mui/x-date-pickers": "^7.23.6",
+    "@reduxjs/toolkit": "^1.7.2",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^5.6.4",
+    "axios": "^0.25.0",
+    "body-parser": "^1.20.0",
+    "clsx": "latest",
+    "date-fns-tz": "^2.0.0",
+    "electron": "^26.3.0",
+    "flowbite": "^1.5.3",
+    "flowbite-react": "^0.0.27",
+    "flowise-embed": "^1.0.12",
+    "formik": "^2.2.9",
+    "graphql": "^16.7.1",
+    "handsontable": "^13.1.0",
+    "intro.js": "^7.2.0",
+    "jspdf": "^2.5.1",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.41",
+    "react": "^17.0.2",
+    "react-calendly": "^4.1.1",
+    "react-datepicker": "^4.12.0",
+    "react-dom": "^17.0.2",
+    "react-file-base64": "^1.0.3",
+    "react-hook-form": "^7.45.1",
+    "react-icons": "^4.3.1",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^6.2.1",
+    "react-scripts": "5.0.0",
+    "react-toastify": "^8.1.1",
+    "save": "^2.5.0",
+    "xlsx": "^0.18.5",
+    "yup": "^0.32.11"
+  },
+  "resolutions": {
+    "react": "17.0.2",
+    "react-scripts": "5.0.0",
+    "react-reconciler": "0.23.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@iconify/react": "^4.0.0",
+    "autoprefixer": "^10.4.9",
+    "cypress": "^10.7.0",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8"
+  }
+}

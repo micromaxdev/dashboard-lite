@@ -1,0 +1,45 @@
+rmaNo,company,technician,rmaDate,goodsArriveDate,dateShipToSupp,dateReturnsFromSupp,dateShipToCust,rmaProcessDuration(NoOfDays),partNo,serialNo,reasonForreturn,investigationNote,proposeAction,underWarranty,itemStatus
+549,Debetrek,Chris Stevens,9-Mar-23,,,,,,AMD2454,H23010715,Return for credit,,,Y,Item Created
+645,Peacock Bros,Chris Stevens,4-Apr-24,,,,,,AMD2452,H23050067,Not powering on,,,Y,Item Created
+689,JAS Oceania,Chris Stevens,18-Sep-24,,,,,,AXS1731865,,Incorrect supply,,,Y,Item Created
+704,NAPA Auto Parts,Chris Stevens,9-Dec-24,,,,,,AXS20684,,,,,Y,Item Created
+713,Curtin University,Chris Stevens,16-Jan-25,,,,,,X55D12MF,,x 2 units not functioning,,,Y,Item Created
+716,NAPA Auto Parts,Chris Stevens,20-Jan-25,,,,,,AXS19830,,return for credit,,,Y,Item Created
+719,APC Technology,Chris Stevens,22-Jan-25,,,,,,AS2075,675334,Copper block detached,,,Y,Item Created
+719,APC Technology,Chris Stevens,22-Jan-25,,,,,,AS2075,675323,Not functioning as supposed to,,,Y,Item Created
+719,APC Technology,Chris Stevens,22-Jan-25,,,,,,AS2075,675319,Not functioning as supposed to,,,Y,Item Created
+726,Extel Technologies,Chris Stevens,19-Feb-25,,,,,,AS0450,,to be returned,,,Y,Item Created
+726,Extel Technologies,Chris Stevens,19-Feb-25,,,,,,AS0450,,to be returned,,,Y,Item Created
+732,Extel Technologies,Chris Stevens,6-Mar-25,,,,,,AS0450,J523NC1049,No output on serial,,,Y,Item Created
+732,Extel Technologies,Chris Stevens,6-Mar-25,,,,,,AS0450,K3G2NC1072,Cannot read CF card,,,Y,Item Created
+739,NAPA Auto Parts,Chris Stevens,9-Apr-25,,,,,,axs18100,,not functioning,,,Y,Item Created
+740,JAS Oceania,Chris Stevens,9-Apr-25,,,,,,AXSK1714,,Incorrect Item,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,2303009933,Faulty USB A Port,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+741,Ground Probe,Chris Stevens,16-Apr-25,,,,,,AS0850,TBA,Remediation,,,Y,Item Created
+743,Extel Technologies,Chris Stevens,28-Apr-25,,,,,,AS0450,,Remediation,,,Y,Item Created
+745,Extel Technologies,Chris Stevens,29-Apr-25,,,,,,AS0450,261100O1M,blue light flashing,,,Y,Item Created
+749,Pembroke Olive Downs Complex,Chris Stevens,13-May-25,,,,,,TP04014,MJ1880S8,loan unit,,,Y,Item Created
+751,Diesel Parts and Service P/L,Chris Stevens,20-May-25,,,,,,AXSK1714,,incorrect unit,,,Y,Item Created
+752,Peninsula Health - Frankston Hospital,Chris Stevens,20-May-25,11-Jul-25,,,,,AMD2256,H2503719,Possible failed SSD unit,,Repair by Supplier,Y,Inspection Completed
+753,UGL,Chris Stevens,26-May-25,,,,,,R742420VM-CLY,,Unit failed,,,Y,Item Created
+754,ADE Parts,Chris Stevens,4-Jun-25,,,,,,AXS19480,,incorrect supply,,,Y,Item Created
+755,ADE Parts,Chris Stevens,5-Jun-25,,,,,,AXS19200,,Incorrect supply,,,Y,Item Created
+757,UGL,Chris Stevens,11-Jun-25,,,,,,R742420VM-CLY,234990,failed unit,,,Y,Item Created
+757,UGL,Chris Stevens,11-Jun-25,,,,,,R742420VM-CLY,239691,failed unit,,,Y,Item Created
+757,UGL,Chris Stevens,11-Jun-25,,,,,,R742420VM-CLY,239717,failed unit,,,Y,Item Created
+760,UGL,Chris Stevens,17-Jun-25,,,,,,R742420VM-CLY,,Failed,,,Y,Item Created
+761,Altronic Distributors Pty Ltd,Chris Stevens,19-Jun-25,1-Jul-25,,,,,AS070309,,Not Functining,,,Y,Returns Received
+763,Northern Health,Michael Heaton,27-Jun-25,11-Jul-25,,,,,AMD20001,H22084254,Power Brick faulty,,Repair by Micromax,Y,Inspection Completed

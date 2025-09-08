@@ -1,0 +1,29 @@
+import { useEffect } from 'react'
+
+
+//------------------USE EFFECT------------------
+
+useEffect(() => {
+
+    if (isError) {
+        console.log(message)
+    }
+
+
+    try {
+        dispatch(get..())
+    } catch (error) {
+
+    }
+
+    return () => {
+
+        dispatch(reset())
+
+    }
+    
+}, [isError, message, dispatch])
+
+if (isLoading) {
+    return <Spinner />
+}

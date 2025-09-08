@@ -1,0 +1,23 @@
+Open Terminal, navigate to root folder.
+
+```
+yarn install
+```
+
+cd into frontend
+
+```
+yarn install
+```
+
+cd backend
+
+```
+yarn install
+```
+
+cd to root folder
+
+```
+yarn run dev
+```

@@ -1,0 +1,5 @@
+node_modules
+.env
+backend/files/csvs/
+backend/files/images/
+frontend/src/pages/testing/
