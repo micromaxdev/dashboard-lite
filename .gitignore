@@ -1,4 +1,15 @@
-node_modules
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+
+# Yarn
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# Misc
 .env
 backend/files/csvs/
 backend/files/images/
@@ -16,5 +27,4 @@ frontend/src/pages/testing/
 .idea
 dist
 build
-node_modules
 install-state.gz

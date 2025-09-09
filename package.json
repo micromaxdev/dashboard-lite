@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "server": "nodemon backend/server.js",
-    "client": "cd frontend && npm start",
+    "client": "cd frontend && yarn dev",
     "flowise": "cd flowise && yarn dev",
     "nestjs": "cd nestjs && npm start:dev",
     "nest": "cd nest-backend && npm start:dev",
@@ -71,7 +71,6 @@
     "sequelize": "^6.37.7",
     "styled-components": "^6.1.14",
     "twilio": "^5.4.2",
-    "vite": "^4.5.2",
     "winston": "^3.17.0",
     "winston-daily-rotate-file": "^5.0.0",
     "xlsx": "^0.18.5"
@@ -79,15 +78,25 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@eslint/js": "^9.1.1",
+    "@vitejs/plugin-react": "^4.7.0",
     "concurrently": "^7.0.0",
+    "esbuild": "^0.20.0",
     "eslint": "^9.1.1",
     "eslint-plugin-react": "^7.34.1",
     "gh-pages": "^3.2.3",
     "globals": "^15.1.0",
+    "graceful-fs": "^4.2.11",
     "madge": "^8.0.0",
-    "nodemon": "^2.0.15"
+    "nodemon": "^2.0.15",
+    "picomatch": "^4.0.0",
+    "rollup": "^4.50.1",
+    "vite": "^7.1.0"
   },
   "browser": {
     "crypto": false
-  }
+  },
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
 }
